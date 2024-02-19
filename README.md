@@ -3,6 +3,10 @@
 ## Description
 Fast-PizzaStore is a web application built with Vite.js, designed to streamline the pizza ordering process. It offers a seamless user experience with features such as adding items to the cart, checkout functionality, and automatic retrieval of the user's current location. The application boasts an intuitive and visually appealing user interface to enhance user engagement.
 
+## Demo
+Check out the live demo [here](#). (Update "#" with your actual live link)
+
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
